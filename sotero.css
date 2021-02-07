@@ -1,11 +1,25 @@
 body {
-    background-color: blueviolet /*Cor do Fundo da Pagina*/
+    background-color: lightblue ; /*Cor do Fundo da Pagina*/
     
+ 
   }
   
   h1 {
+    text-align: center;
+    background-color: orange; /*Cor do Fundo do titulo*/
     color: black;  /*TITULO 1, cor preta*/
     margin-left: 20px; /*TITULO 1, 20px da margem esquerda*/
+    border: 4px dotted Black /*TITULO 1,borda*/
+    
+  }
 
-    background-color: orangered /*Cor do Fundo da Pagina*/
+  h2 {
+    text-align: center;
+    background-color: rgba(0, 128, 0, 0.3) /*Cor de Fundo do Titulo 2 rgba (vermelho, verde, azul, alfa ) verificar porque não funciona*/
+    color: black;  /*TITULO 2, cor preta verificar porque não funciona */
+    margin-left: 20px; /*TITULO 1, 20px da margem esquerda*/
+    border: 4px dotted red /*TITULO 1,borda*/
+    
+    /*border: 4px dotted Black /*TITULO 1,borda*/
+     
   }
