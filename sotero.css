@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet /*Cor do Fundo da Pagina*/
+  }
+  
+  h1 {
+    color: navy;  /*TITULO 1, azul e 20px a esquerda*/
+    margin-left: 20px;
+
+    background-color: orangered /*Cor do Fundo da Pagina*/
+  }
