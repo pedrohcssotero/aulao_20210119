@@ -11,4 +11,7 @@
 - __git branch__: Mostra as branch do repositorio local e qual branch está selecionada atualmente
 - __git checkout <branch>__: Vai para a branch selecionada
 - __git checkout -b <branch>__: Vai para a branch selecionada criando-a
- 
+- __git remote show origin__: Mostra a origim remota
+- __git log__: lista a ordem dos commit, mostra as brench
+- __git log -p__: mostra o commit mais detalhado e as alterações feitas
+- __git log <caminho do arquivo / caminha da pasta>__: mostra os commit daqueles arquivos  
