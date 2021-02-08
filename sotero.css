@@ -15,7 +15,7 @@ body {
 
   h2 {
     text-align: center;
-    background-color: rgba(0, 128, 0, 0.3) /*Cor de Fundo do Titulo 2 rgba (vermelho, verde, azul, alfa ) verificar porque não funciona*/
+    background-color: rgba(0, 128, 0, 0.3); /*Cor de Fundo do Titulo 2 rgba (vermelho, verde, azul, alfa ) verificar porque não funciona*/
     color: black;  /*TITULO 2, cor preta verificar porque não funciona */
     margin-left: 20px; /*TITULO 1, 20px da margem esquerda*/
     border: 4px dotted red /*TITULO 1,borda*/
